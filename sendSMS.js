@@ -1,6 +1,9 @@
-// V23.01.011
+// V23.05.012
 // SMS Versand (SMS Gateway Service) für ioBroker mit sms77.io
-// Quelle: https://www.sms77.io/de/entwickler/
+// Quelle: https://www.seven.io/de/entwickler/
+// Seit Anfang 2023 ist SMS77 unter dem Namen "Seven" bekannt und die Domain wurde von sms77.io zu seven.io umgestellt.
+// Bestehende Webhooks und API-Anfragen müssen angeblich nicht geändert werden und sind weiterhin gültig.
+// Habe das Gateway dennoch angepasst: https://gateway.sms77.io/api/sms zu https://gateway.seven.io/api/sms
 //
 // Das 'request'-Modul für HTTP-Requests ist deprecated und wird nicht mehr aktiv gepflegt.
 // Verwende stattdessen den Promise-basierenden HTTP-Client 'axios'.
