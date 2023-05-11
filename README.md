@@ -1,6 +1,5 @@
 # ioBroker sendSMS77
-SMS Versand (SMS Gateway Service) für [ioBroker](https://github.com/ioBroker/) mit [sms77.io](https://www.sms77.io)
-
+SMS Versand (SMS Gateway Service) für [ioBroker](https://github.com/ioBroker/) mit [sms77.io](https://www.sms77.io), jetzt [seven.io](https://www.seven.io)
 ### Vorteile
 - Einfaches JavaScript (JS) Request mit Axios via POST und HTTP API
 - Übertragung der Daten  erfolgt TLS verschlüsselt
