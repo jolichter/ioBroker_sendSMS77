@@ -56,7 +56,7 @@ function getResponseText(response) {
 async function sendSms(apiKey, to, text, from, flash, details, debug) {
   const options = {
     method: 'POST',
-    url: 'https://gateway.sms77.io/api/sms',
+    url: 'https://gateway.seven.io/api/sms',
     headers: {
       'X-Api-Key': apiKey
     },
