@@ -21,4 +21,4 @@ Blockly mit JS [sendSMS.js](https://github.com/jolichter/ioBroker_sendSMS77/blob
 Falls Debug aktiviert, werden keine SMS verschickt oder berechnet. Als Antwort auf den Request erhaltet ihr einen numerischen Rückgabewert mit Text. Nutze 2 Datenpunkte, z.B.: 'textSMS' (string) für die Nachricht und 'sendSMS' (boolean) als Trigger zum senden.
 
 ### Achtung
-- Seit Dezember 2023 wurde der Parameter debug, der genutzt werden konnte, um den Dienst ohne tatsächlichen Nachrichtenversand zu testen, deaktiviert. Stattdessen muss nun die Sandbox als Testumgebung verwendet werden. Weitere Informationen:[Changelog](https://feedback.seven.io/changelog/28188)
+- Seit Dezember 2023 wurde der Parameter debug, der genutzt werden konnte, um den Dienst ohne tatsächlichen Nachrichtenversand zu testen, deaktiviert. Stattdessen muss nun die Sandbox als Testumgebung verwendet werden. Weitere Informationen: [Changelog](https://feedback.seven.io/changelog/28188)
